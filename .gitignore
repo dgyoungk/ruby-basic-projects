@@ -1,0 +1,5 @@
+# ignore rspec config
+.rspec
+
+# ignore vscode debug config
+.vscode
